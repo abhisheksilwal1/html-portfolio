@@ -1,0 +1,27 @@
+html{
+    background: blanchedalmond;
+    background-image: url(./background.jpg);
+}
+#main{
+    text-align: center;
+    color: black;
+}
+h2{
+   color:floralwhite;
+   text-decoration: underline;
+   text-align: center;
+}
+p{
+    color: red;
+    font-size: 20px;
+}
+li{
+    text-align: center;
+}
+*{
+    text-align: center;
+}
+li{
+    background-position:right;
+    color: floralwhite;
+}
